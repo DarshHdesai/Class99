@@ -1,0 +1,25 @@
+.copy_rigth_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: blue;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-weight: 100;
+}
+h4{
+    background-color: aqua;
+    
+}
+img{
+    width: fit-content;
+    border-radius: 0cqmax;
+    padding: 50%;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
